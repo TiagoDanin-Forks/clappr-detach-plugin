@@ -74,7 +74,7 @@ const player = new Clappr.Player({
     height: 180,
     isDetached: false,
     onAttach: () => { },
-    onDetach: () => { }
+    onDetach: () => { },
     opacity: 1,
     orientation: 'bottom-right',
     position: {
